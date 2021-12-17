@@ -368,7 +368,7 @@ def show_flash():
         #     tur.undo()
 
 
-def main():
+def to_main():
     # tur.setup(1800, 1600, 200, 100)
     # tur.goto(1800, 1600)
     # turtle.tracer(False)
@@ -410,4 +410,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    to_main()
